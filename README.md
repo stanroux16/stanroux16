@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @stanroux16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- <h1>Hi, I’m stanroux16</h1>
+- I’m interested in `C++` programming and `Web` devloppement
+- I’m currently learning in `C++`
 
-<h1>
-stanroux16/stanroux16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-</h1>
+
